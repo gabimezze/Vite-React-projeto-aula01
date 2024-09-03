@@ -1,8 +1,11 @@
-# React + Vite
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=+Jornada+100+Dias+Codando+→+Vite+»»+React+)](https://git.io/typing-svg)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Vite + React » aula01
+<p>Começando uma jornada de 100 dias codando para aprender vite+react.</p>
+
+
+
+### Sobre a Primeira Aula
+<p>Nessa aula foi aprendido o que é o Vit e como fazer sua instalação por meio do terminal ou IDE Vs Code</p>
